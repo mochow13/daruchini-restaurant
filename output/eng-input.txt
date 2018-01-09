@@ -1,0 +1,50 @@
+r to the Second Edition
+
+.This new edition of The Art dad Craft ofProhlcm Solving ‘s an expanded. and. I hope.
+improved version of the original Work. There are several changes. including:
+
+o A new chapter on geometry. It ‘5 long—as many pages as the eombinatorics
+animtmber theory chapters combined—but it is merely an introduction to the
+wbjeet. Expens are bound to be dissatisﬁed with the chapter‘s pace (slow. es—
+pecnlly at the start) and missing topics (solid geometry, directed lengths and
+angles, Desargoes‘s theorem. the 91mm circle). But this chapter is for begins
+IRIS: hence its title. “Geometry for Americans.“ I hope that it gives the novice
+problem solver the conﬁdence to investigate geometry problems as agressively
+3 he or she might tackle discrete math questions.
+
+0 An expamion to the calculus chapter. with many new problems.
+
+0 More problems. especially “easy" ones. in several other chapters
+
+To aceooumdate the new nuterial and keep the length under control. the problems are
+it a two-column format with a smaller font. But don't let this smaller size fool you
+into thinking that the problerm are less important than the rest of the book. As with the
+ﬁrst edition the problems are the heart of the book. The serious reader should. at the
+very least. read each problem statement. and attempt as many as possible. To facilitate
+this. X hue expanded the number of problems discussed in the Hints appendix, which
+now can be found online at ww.viley. com/college/zeitz.
+
+I am still indebted to the people that I thanked in the preface to the ﬁrst edition. in
+addition. I'd like to dunk the following people.
+
+0 Jennifer Batiste and Ken Santor at Wiley expertly guided me through the revi-
+sion process. never once losing patience with my procrastination.
+
+0 Brian Borden. Joyce Cutler. Julie Levandoslty. Ken Monks. Deborah Moore-
+Rtnso. James Stein. and Drag: thakovic carefully reviewed the manuscript.
+fond many errors. and nude numerous important suggestions.
+
+0 At the University ofSan anciseo. where l have worked since 1992. Dean
+WRITE-pin an! Associate Dem Brandon Brown have generously supported
+my exmrricular activities. including approval of a sabbatical leave during the
+2015-06 anti-mic year whidt made on project possible.
+
+0 Sim: I997, my uderstmding of problem solving has been enriched by my
+work with a nmnber of Iced math circles and contests. The Mathematical
+Sciences Reward: Institute (m1) has sponsored much of this activity. and
+Inn particularly indebted to MSRl ofﬁcers Hugo Rossi. David Eisenbud, lirr
+Sotjros. and Joe Buhler. Others who have helped me tremendously include Ton
+Rite. Sun Vanthvelde. Mark Saul, Titima Shubin, Tom Davis. Josh Zuckez
+
+an! especially. Zvenlelim Sunken.
+h
